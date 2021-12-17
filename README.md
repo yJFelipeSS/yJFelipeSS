@@ -43,9 +43,10 @@ public class Me {
   }
   
   private void setSkills() {
-    skills.setFrontEndSkills("HTML", "CSS", "JavaScript", "React");
-    skills.setBackEndSkills("Java", "C++", "Python");
-    skills.setAutomatedSkills("Selenium IDE", "Selenium");
+    skills.setFrontEndLanguages("HTML", "CSS", "JavaScript", "React");
+    skills.setBackEndLanguages("Java", "C++", "Python");
+    skills.setMobileProgrammingLanguages("React Native", "Flutter");
+    skills.setAutomationSkills("Selenium IDE", "Selenium");
     
     skills.setSportsSkills(Collections.singleton("Jiu Jitsu"));
   }
