@@ -6,3 +6,6 @@
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yJFelipeSS)
 [![Linkedin: jhonnathasolsona](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonnatha-solsona-405064178/)
 
+
+> This README file is still in building procress
+<img style="center" src="https://media3.giphy.com/media/f7b9ltJ4FrhnsKjYx2/giphy.gif">
