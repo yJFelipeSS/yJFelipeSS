@@ -30,7 +30,7 @@ public class Me {
   
   private LocalDate birthDate;
 
-  public Birth(@NotNull Parents mommy, @NotNull Parents daddy) {
+  public Me(@NotNull Parents mommy, @NotNull Parents daddy) {
     this.mommy = mommy;
     this.daddy = daddy;
     
