@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 ### This is Jhonnatha Solsona!
 
 > Majoring in bachelor of Science and Technology from the <a href="https://ufrn.br/en">Federal University of Rio Grande do Norte</a>!
